@@ -1,0 +1,10 @@
+@font-face {
+    font-family: walshein;
+    src: url(/GT-Walsheim-Bold.ttf);
+}
+
+
+.Heading{
+    font-size: 48px;
+    font-family: walshein;
+}
